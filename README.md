@@ -2,4 +2,4 @@
 Introduction demo to Git Hub
 
 ## <heading 2 - example> Demo
-Showing how to change yhe README file
+Showing how to change the README file
