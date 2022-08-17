@@ -9,7 +9,7 @@ Fix branch.
 
 Developer branch.
 
-## Project and repository contextDiagram
+## Project and repository context Diagram
 ![The-structure-of-a-GitHub-based-project-illustrating-project-structure-and-interactions](https://user-images.githubusercontent.com/102416550/185241435-c14a1ce7-650f-4ce4-9df3-d217f7ec17f1.png)
 
 ## Branching strategy.
