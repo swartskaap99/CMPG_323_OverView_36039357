@@ -1,12 +1,10 @@
 # CMPG_323_Overview_36039357
-##Introduction demo to Git Hub
 
 ## Repositories to be created.
 For project 1 we have created CMPG_323_OverView_36039357
 Furthermore repositories will be created for the remianing projects 2-5.
 
-##Branches to be utilised:
-
+##Branches to be utilised.
 Main branch. The final project, from here we will branch out. This will keep our main/origional program rather safe while we are busy working with the code.
 
 Developer branch. This branch will be utilized the most out of them all. Here we will do most of our work and coding. 
